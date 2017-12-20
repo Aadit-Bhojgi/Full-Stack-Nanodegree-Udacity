@@ -1,4 +1,4 @@
-# Full-Stack-Nanodegree-Udacity
+# Full Stack Web-Developer Nanodegree (Udacity)
 #### by<a href="https://in.udacity.com/"> Udacity Inc.</a>
 
 This repo contains all the projects I created while doing the Full Stack Nanodegree at Udacity.
