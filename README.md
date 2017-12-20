@@ -12,5 +12,5 @@ This repo contains all the projects I created while doing the Full Stack Nanodeg
 * Creating and Using Mutliple APIs.
 * Configuring and maintaining a Linux server.
 
-### Below is the Certificate attached after graduation:
+### Below is the certificate for graduation:
 <img src="certificate.PNG">
