@@ -1,7 +1,7 @@
 # Full-Stack-Nanodegree-Udacity
-#### by<a href="https://in.udacity.com/"> Udacity </a>
+#### by<a href="https://in.udacity.com/"> Udacity Inc.</a>
 
-This repo contains all the projects I created while doing the Full Stack Nanodegree at Udacity. It will be updated as more projects get reviewed.
+This repo contains all the projects I created while doing the Full Stack Nanodegree at Udacity.
 
 ### Knowledge Required:
 * Creating responsive HTML web pages.
