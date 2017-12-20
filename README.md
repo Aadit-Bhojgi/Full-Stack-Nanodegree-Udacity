@@ -8,7 +8,7 @@ This repo contains all the projects I created while doing the Full Stack Nanodeg
 * Generating web pages programmatically using **Python**.
 * Deploying applications on a web server like **Heroku**.
 * Creating complex Web Apps using Python's **Flask MicroFramework**.
-* Working with **MVkjbjkb\* Frameworks**.
+* Working with **MV\* Frameworks**.
 * Creating and Using Mutliple **APIs**.
 * Configuring and maintaining a **Linux server**.
 
